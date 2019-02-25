@@ -1,5 +1,4 @@
 python script to send whatsapp message using whatsapp web
- Developer: satishkushwah50@gmail.com
 
 requirement to use it (on windows)
   1.  run 'pip install selenium' in cmd
